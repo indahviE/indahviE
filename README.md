@@ -18,9 +18,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indahviE/indahviE/output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indahviE/indahviE/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/indahviE/indahviE/output/puzzle-bobble-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indahviE/indahviE/output/snake-pink-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indahviE/indahviE/output/snake-pink.svg">
+  <img alt="pink snake contribution graph" src="https://raw.githubusercontent.com/indahviE/indahviE/output/snake-pink.svg">
 </picture>
 
 bye bye ₍^. .^₎Ⳋ

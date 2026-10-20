@@ -23,6 +23,6 @@
   <img alt="pink snake contribution graph" src="https://raw.githubusercontent.com/indahviE/indahviE/output/snake-pink.svg">
 </picture>
 
-bye bye ₍^. .^₎Ⳋ
+. . . thank you udah mampir ke profil aku, bye bye! ( ˶ˆᗜˆ˵ )
 
 </div>

@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Arcade Contribution Graph
 
 on:
   schedule:
@@ -13,10 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,puzzle-bobble'
 
       - name: Push SVG ke branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
